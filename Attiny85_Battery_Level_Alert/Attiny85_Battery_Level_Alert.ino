@@ -7,6 +7,8 @@
 //                  ┕━━━━━┙
 //                  ATTINY85
 //이하 Attiny85용 핀아웃
+// 슬립 모드 코드 추가할 것
+
 
 #define VoltageLevel A2
 #define Bat25 3
